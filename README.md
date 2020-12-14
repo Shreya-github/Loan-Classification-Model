@@ -1,0 +1,2 @@
+# Loan-Classification-Model
+ Data had imbalance classes, so I fixed this issue by solving them using three ways: under sampling, over sampling, and SMOTE. Logistic Regression, gives best model accuracy where model was 90% accurate to detect credit card fraud in case of oversampling, 93% accurate in case of under sampling and 92% accurate under SMOTE. Designed a hyper parameter tuned model for Classification dataset which runs various algorithms like Logistic regression, Random Forest, Ada Boost, XG Boost, KNN. 
